@@ -1,0 +1,19 @@
+{
+  "name": "session-communities-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hesiod-project/session-communities-bot.git"
+  },
+  "author": "Ryan Tharp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hesiod-project/session-communities-bot/issues"
+  },
+  "homepage": "https://github.com/hesiod-project/session-communities-bot#readme"
+}
